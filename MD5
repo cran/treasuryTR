@@ -1,4 +1,4 @@
-1dd858d6b2aa1ba57b4f45ebd6b517e6 *DESCRIPTION
+77a63a66a769ca471f0d571e1458bed1 *DESCRIPTION
 4654ed1bb6a7f52c62076a97692f50c2 *LICENSE
 9694aac3f2841fa5d3b9c5f14971640f *NAMESPACE
 57165ec83960f6d51aa6f6bbf42e148b *R/convexity.R
@@ -8,15 +8,15 @@ ccec661ed87c81494b4bd3bcf6323b68 *R/mod_duration.R
 7181a1cfb701be4a47e7968f6cbcabb9 *R/tibble_to_xts.R
 9f4ba6c6ad827b020aab428c4da314f4 *R/total_return.R
 0826d21ed320743c83d50f43be2839a9 *R/xts_to_tibble.R
-40abe72f59dcd07feadf5674aff808a8 *README.md
+07ddd4c231be1771840e204cf2909929 *README.md
 a28a4025cbbdd03a515413fd776a17fb *build/vignette.rds
-73ee0f18367a42b643fd53822adb84c6 *inst/doc/treasuryTR.R
-32479a5fbf9269cdac652bcd62005ad9 *inst/doc/treasuryTR.Rmd
-4a3a71828e06e0346cdfb508f98e44ba *inst/doc/treasuryTR.html
+532110893e1fd487a8f09b474709fa64 *inst/doc/treasuryTR.R
+60eb582c1cdef918b3c45ab2e567ca2c *inst/doc/treasuryTR.Rmd
+636cabd1564972ab8f1c3e206127cc93 *inst/doc/treasuryTR.html
 48ba201592323c243f996b2c440539d5 *man/convexity.Rd
 d0a35ba34e32f141c1631974e9caf2dd *man/get_yields.Rd
 9a74661e2b3bc2d4f4a4cf561bf7b2e1 *man/mod_duration.Rd
 9087054b309bb6b3a6e0612d94bca434 *man/tibble_to_xts.Rd
 b5e17038b5d838a6f21609a465dd133d *man/total_return.Rd
 1e73f083202092728a324c80876eadac *man/xts_to_tibble.Rd
-32479a5fbf9269cdac652bcd62005ad9 *vignettes/treasuryTR.Rmd
+60eb582c1cdef918b3c45ab2e567ca2c *vignettes/treasuryTR.Rmd
