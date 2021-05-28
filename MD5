@@ -1,4 +1,4 @@
-76fbc9fd692b415d3bd2490f11d33731 *DESCRIPTION
+efe7996b0a624ddafffbb8697eaebb0b *DESCRIPTION
 4654ed1bb6a7f52c62076a97692f50c2 *LICENSE
 9694aac3f2841fa5d3b9c5f14971640f *NAMESPACE
 57165ec83960f6d51aa6f6bbf42e148b *R/convexity.R
@@ -12,7 +12,7 @@ ccec661ed87c81494b4bd3bcf6323b68 *R/mod_duration.R
 a28a4025cbbdd03a515413fd776a17fb *build/vignette.rds
 532110893e1fd487a8f09b474709fa64 *inst/doc/treasuryTR.R
 60eb582c1cdef918b3c45ab2e567ca2c *inst/doc/treasuryTR.Rmd
-aa1a717415ca64098690335bd2c3685a *inst/doc/treasuryTR.html
+bba43fe74024d7e0e0a895272788e8d7 *inst/doc/treasuryTR.html
 48ba201592323c243f996b2c440539d5 *man/convexity.Rd
 d0a35ba34e32f141c1631974e9caf2dd *man/get_yields.Rd
 9a74661e2b3bc2d4f4a4cf561bf7b2e1 *man/mod_duration.Rd
