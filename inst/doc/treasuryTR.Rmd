@@ -18,6 +18,7 @@ vignette: >
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
+  eval = FALSE,        # CRAN fails handling external data too often. That's why we have to prevent running the code here. 
   collapse = TRUE,
   comment = "#>"
 )
