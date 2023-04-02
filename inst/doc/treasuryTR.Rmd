@@ -30,7 +30,7 @@ While Treasury yields are easy to come by[^FRED], total returns (TR) are not. Th
 
 [^FRED]: E.g. on the Federal Reserve Bank of St. Louis's data portal "FRED", see https://fred.stlouisfed.org/series/DGS5 (5 year), https://fred.stlouisfed.org/series/DGS10 (10 year), https://fred.stlouisfed.org/series/DGS20 (20 years), https://fred.stlouisfed.org/series/DGS30 (30 years)  
 
-[^CRSP]: Center for Research in Security Prices, LLC, see http://www.crsp.org/
+[^CRSP]: Center for Research in Security Prices, LLC, see https://www.crsp.org/
 
 The TR can be computed from publicly available (constant-maturity) yield-to-maturity time-series data using *standard (fixed-income) textbook formulas*. Swinkels 2019 compares the TR series with alternative series (CRSP, Bloomberg etc.) and finds that the returns are very close and are therefore a high-quality alternative to commercially available data.
 

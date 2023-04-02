@@ -34,8 +34,16 @@
 #' yields_us_1m <- get_yields(series = "DGS1MO")
 get_yields <- function(series = "DGS10", na_locf = TRUE,
                        percent_adjust = TRUE, format_out = "xts", ...) {
-  yields <- quantmod::getSymbols(Symbols = series,
-                                 src = "FRED", auto.assign = FALSE, ...)
+  yields <- tryCatch({
+    quantmod::getSymbols(Symbols = series,
+                         src = "FRED", auto.assign = FALSE, ...)
+    },
+    error = function(e) {
+      message("An error occurred while accessing the data. Please check your internet connection and try again.")
+      return(NULL)
+      }
+    )
+
   if (!(format_out %in% c("xts", "tibble"))) {
     stop("format_out has to be one of xts or tibble")
   }
